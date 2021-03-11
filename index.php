@@ -33,7 +33,7 @@
                         flash($_SESSION['alert'], $_SESSION['message']);
                     }
                     else{
-
+                            //  a future welcome alert
                     }
 
                 ?>
